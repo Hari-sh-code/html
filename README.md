@@ -1,1 +1,1 @@
-This repository contains the Basic example coding for HTML 
+This repository contains the Basic example coding for HTML
